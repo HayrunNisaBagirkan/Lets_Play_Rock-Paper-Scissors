@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+.rules {
+    margin: 10px;
+    border: inset;
+}
+
+.game {
+    margin-top: 20px;
+}
+
+button{
+    border: outset;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+#result{
+    font-weight: bold;
+    margin-top: 20px;
+}
